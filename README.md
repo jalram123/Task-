@@ -1,1 +1,1 @@
-Croupto tracker
+Cryptocurrency Tracker
